@@ -52,9 +52,10 @@ Codename: `radosgw`
 
 # CRUSH
 
-*C*ontrolled *R*eplication *U*nder *S*calable *H*ashing
+<u>C</u>ontrolled <u>R</u>eplication <u>U</u>nder <u>S</u>calable <u>H</u>ashing
 
 
+## CRUSH
 * `a scalable pseudo random data distribution function`
 * Wie?
   * via `crush rules`
@@ -73,9 +74,14 @@ crush(pg id, topology) ⇨ ["osd.23", "osd.42", "osd.1337"]
 
 # RADOS
 
-*R*eliable *A*utonomic *D*istributed *O*bject *S*tore
+<u>R</u>eliable <u>A</u>utonomic <u>D</u>istributed <u>O</u>bject <u>S</u>tore
 
 * Kernkomponente
 * Implementiert
   * Self-Healing
   * Self-Management
+
+
+## CRUSHMAP
+
+![img](images/ceph-crushmap.svg)<!-- .element: height="500px" -->

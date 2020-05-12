@@ -14,6 +14,7 @@ Ceph ein Tausendsassa
 
 
 ## Was ist Ceph?
+![logo](https://ceph.com/wp-content/uploads/2016/07/Ceph_Logo_Standard_RGB_120411_fa.png) <!-- .element: height="200px" -->
 
 
 * Open-Source
@@ -76,8 +77,11 @@ letzten 30 Tage
 **overall**
 
 * 77k commits
-* LOC 7.045.861 (05/2020)
 * LOC 5.795.580 (01/2019)
+
+⇩
+
+* LOC 7.045.861 (05/2020)
 
 
 **Commits by Company**
@@ -95,7 +99,6 @@ letzten 30 Tage
 * SUSE
 * Ubuntu
 * ...
-
 
 
 ## Releases
