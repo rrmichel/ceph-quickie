@@ -25,3 +25,5 @@
 .reveal .fragment .current-fragment {
   opacity: 1 !important;
 }
+
+.reveal section img { border:none; box-shadow:none; }
